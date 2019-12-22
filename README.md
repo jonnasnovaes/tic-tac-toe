@@ -28,4 +28,4 @@
 ### Imagens do Game
 
 ![](C:/Users/Jhonnata/Desktop/1.png)
-![](/C:/Users/Jhonnata/Desktop/2.png)
+![](C:/Users/Jhonnata/Desktop/2.png)
