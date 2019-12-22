@@ -27,3 +27,6 @@
 
 ### Imagens do Game
 
+![1](https://user-images.githubusercontent.com/34194789/71315321-e5c6c900-2438-11ea-82fb-5d1bfeb5d1fd.PNG)
+
+![2](https://user-images.githubusercontent.com/34194789/71315322-ea8b7d00-2438-11ea-9677-00778010710d.PNG)
