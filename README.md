@@ -22,7 +22,7 @@ Clone o projeto para sua máquina, extraia o diretório para um local de sua pre
 
 ### Licença
 ---
-MIT
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 
 ### Autoria
