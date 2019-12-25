@@ -4,28 +4,36 @@
 ##### 1.0.0
 
 ### Descrição
-##### Game clássico criado para os momentos em que hà a necessidade de reviver os "velhos" tempos de uma maneira mais, digamos.. tecnológica ! 
+---
+Game clássico criado para os momentos em que hà a necessidade de reviver os "velhos" tempos de uma maneira mais, digamos.. tecnológica ! 
 
 ### Pré-requisitos
-##### Navegador Google Chrome
+---
+Navegador Google Chrome
 
 ### Instalação
-##### Clone o projeto para sua máquina, extraia o diretório para um local de sua preferência e execute o arquivo index.html
+---
+Clone o projeto para sua máquina, extraia o diretório para um local de sua preferência e execute o arquivo index.html
 
 ### Licença
-##### MIT
+---
+MIT
 
 ### Autoria
-##### Jhonnata Novaes Pires
+---
+Jhonnata Novaes Pires
 
 ### Linguagem de Programação
-##### JavaScript
+---
+JavaScript
 
 
 ### Dependências
-##### jQuery v3.4.1
+---
+jQuery v3.4.1
 
 ### Imagens do Game
+---
 
 ![1](https://user-images.githubusercontent.com/34194789/71315321-e5c6c900-2438-11ea-82fb-5d1bfeb5d1fd.PNG)
 
