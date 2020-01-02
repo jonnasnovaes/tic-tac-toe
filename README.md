@@ -1,48 +1,33 @@
-# Tic-Tac-Toe
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34194789/71644925-2206ee80-2caf-11ea-8eb2-69f00a6b3fe1.png">
+</p>
 
-### Versão
----
-1.0.0
+# Tic Tac Toe
 
+Classic game create for moments of necessity remenber old days.
 
-### Descrição
----
-Game clássico criado para os momentos em que hà a necessidade de reviver os "velhos" tempos de uma maneira mais, digamos.. tecnológica ! 
+# How to use
 
+1. Make the download compress or clone this project.
+2. Execute the file index.html.
 
-### Pré-requisitos
----
-Navegador Google Chrome
+# Plataform
 
+All plataforms.
 
-### Instalação
----
-Clone o projeto para sua máquina, extraia o diretório para um local de sua preferência e execute o arquivo index.html
+# Version
 
+* 1.0.0
 
-### Licença
----
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+# Dependences
 
+* Google Chrome: ^79.0.3945.88
+* jQuery: ^3.4.1 
 
-### Autoria
----
-Jhonnata Novaes Pires
+# Credits
 
+The creation of that application do possible thanks to examples finded in: https://github.com/gabrielfroes/tic-tac-toe
 
-### Linguagem de Programação
----
-JavaScript
+# License
 
-
-### Dependências
----
-jQuery v3.4.1
-
-
-### Imagens do Game
----
-
-![1](https://user-images.githubusercontent.com/34194789/71315321-e5c6c900-2438-11ea-82fb-5d1bfeb5d1fd.PNG)
-
-![2](https://user-images.githubusercontent.com/34194789/71315322-ea8b7d00-2438-11ea-9677-00778010710d.PNG)
+Distributed about license MIT. Look `LICENSE` for more informations. 
